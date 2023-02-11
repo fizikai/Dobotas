@@ -1,0 +1,5 @@
+======Version: 2.0.1======
+修改时间：2019/11/7
+修改内容：
+	1：增加了SmartKit_Init()打印信息
+	2：移除SmartKit_Init()中文语音初始化，增加SmartKit_VoiceCNInit中文语音单独初始化接口

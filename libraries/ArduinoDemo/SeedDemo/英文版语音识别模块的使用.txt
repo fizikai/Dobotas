@@ -1,0 +1,4 @@
+使用须知 : 唤醒词 : Hicell (请将它发音为一个单词)。 
+当它识别到唤醒词时，LED变成红色，然后您可以说出命令字，如果它识别命令字，LED将变成蓝色。
+
+具体详情请参考官方网站：http://wiki.seeedstudio.com/cn/Grove-Speech_Recognizer/

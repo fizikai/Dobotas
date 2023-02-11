@@ -1,0 +1,59 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SmartKit_Init			KEYWORD2
+SmartKit_VoiceCNInit		KEYWORD2
+SmartKit_ButtonCheckState		KEYWORD2
+SmartKit_JoyStickReadXYValue		KEYWORD2
+SmartKit_JoyStickCheckPressState	KEYWORD2
+SmartKit_LedCheckStatu		KEYWORD2
+SmartKit_LedTurn			KEYWORD2
+SmartKit_VoiceCNAddCommand	KEYWORD2
+SmartKit_VoiceCNVoiceCheck		KEYWORD2
+SmartKit_VoiceCNStart		KEYWORD2
+SmartKit_VoiceENGStart		KEYWORD2
+SmartKit_VoiceENGVoiceCheck		KEYWORD2
+SmartKit_VISInit			KEYWORD2
+SmartKit_VISSetDobotMatrix		KEYWORD2
+SmartKit_VISSetPixyMatrix		KEYWORD2
+SmartKit_VISSetGrapAreaZ		KEYWORD2
+SmartKit_VISGetGrapAreaZ		KEYWORD2
+SmartKit_VISSetAT			KEYWORD2
+SmartKit_VISSetColorSignature		KEYWORD2
+SmartKit_VISSetBlockTA		KEYWORD2
+SmartKit_VISGetBlockCheckNum	KEYWORD2
+SmartKit_VISSetBlockPlaceNum	KEYWORD2
+SmartKit_VISGetBlockPlaceNum	KEYWORD2
+SmartKit_VISSetBlockHeight		KEYWORD2
+SmartKit_VISBlockParmCheckNumClear	KEYWORD2
+SmartKit_VISRun			KEYWORD2
+SmartKit_VISSetGrapBlockMark		KEYWORD2
+SmartKit_VISGetGrapBlockMark	KEYWORD2
+SmartKit_VISGrabBlock		KEYWORD2
+SmartKit_VISPlaceBlock		KEYWORD2
+
+#######################################
+# Structures (KEYWORD3)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+JOYSTICK_XPIN	LITERAL1
+JOYSTICK_YPIN	LITERAL1
+JOYSTICK_ZPIN	LITERAL1
+LED_REDPIN	LITERAL1
+LED_GREENPIN	LITERAL1
+LED_BLUEPIN	LITERAL1
+BUTTON_REDPIN	LITERAL1
+BUTTON_GREENPIN	LITERAL1
+BUTTON_BLUEPIN	LITERAL1
